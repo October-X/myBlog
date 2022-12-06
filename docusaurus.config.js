@@ -94,49 +94,40 @@ const config = {
             position: "left",
             items: [
               {
-                type: "doc",
                 label: "HTML",
-                docId: "html/index",
+                to: "docs/html",
               },
               {
-                type: "doc",
                 label: "CSS",
-                docId: "css/index",
+                to: "docs/css",
               },
               {
-                type: "doc",
                 label: "JavaScript",
-                docId: "js/index",
+                to: "docs/js",
               },
               {
-                type: "doc",
                 label: "Vue",
-                docId: "vue/index",
+                to: "docs/vue",
               },
               {
-                type: "doc",
                 label: "Vue3",
-                docId: "vue3/index",
+                to: "docs/vue3",
               },
               {
-                type: "doc",
                 label: "TypeSript",
-                docId: "ts/index",
+                to: "docs/ts",
               },
               {
-                type: "doc",
                 label: "React",
-                docId: "react/index",
+                to: "docs/react"
               },
               {
-                type: "doc",
                 label: "NodeJS",
-                docId: "nodejs/index",
+                to: "docs/nodejs",
               },
               {
-                type: "doc",
                 label: "WebPack",
-                docId: "webpack/index",
+                to: "docs/webpack",
               },
             ]
           },
